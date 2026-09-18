@@ -2,3 +2,4 @@
 sample program
 welcome to github
 hello world
+int main
